@@ -1,2 +1,2 @@
 # Ask-Your-Valentine
-Small little web-app to ask out your valentine.
+Short web-app to send to your valentine to ask them out!
